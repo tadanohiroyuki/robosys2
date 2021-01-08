@@ -4,7 +4,7 @@
 * ubuntu20.04.1 LTS  
 * ROS  
   * Noetic  
-* Python  
+* Python3  
 ---  
 # 実行動画
 リンク:[YouTube](https://youtu.be/eVCRS4W7XYA)  
