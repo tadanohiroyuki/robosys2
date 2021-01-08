@@ -7,8 +7,7 @@
 * Python  
 ---  
 # 実行動画
-# 実行動画リンク
-[YouTube](https://youtu.be/eVCRS4W7XYA)  
+リンク:[YouTube](https://youtu.be/eVCRS4W7XYA)  
 ---  
 # 実行方法  
 * 端末1$ roscore  
