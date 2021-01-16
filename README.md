@@ -9,9 +9,14 @@
 # 実行動画
     リンク:[YouTube](https://youtu.be/eVCRS4W7XYA)  
 ---  
-# ROSのインストール
-こちらの資料を参考にROSをインストールした  
-    リンク:(https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)  
+# インストール
+'''
+cd ~/catkin_ws/src
+git clone 
+cd ..
+catkin_make
+source ~/.bashrc
+'''  
 ---  
 # ワークスペースの準備  
 こちらの資料を参考にワークスペースを作成した
