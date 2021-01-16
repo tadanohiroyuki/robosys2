@@ -10,8 +10,8 @@
     リンク:[YouTube](https://youtu.be/eVCRS4W7XYA)  
 ---  
 # ワークスペースの準備及びインストール  
-こちらの資料を参考にワークスペースを作成しROSをインストールし  　
-    リンク:(https://github.com/ryuichiueda/robosys2020/blob/master/md/ros.md)
+こちらの資料を参考にワークスペースを作成しROSをインストールした  
+リンク:(https://github.com/ryuichiueda/robosys2020/blob/master/md/ros.md)  
 ---  
 # 実行方法  
 
