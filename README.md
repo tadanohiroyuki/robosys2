@@ -9,17 +9,8 @@
 # 実行動画
     リンク:[YouTube](https://youtu.be/eVCRS4W7XYA)  
 ---  
-# インストール
-```
-cd ~/catkin_ws/src
-git clone https://github.com/tadanohiroyuki/robosys2.git
-cd ..
-catkin_make
-source ~/.bashrc
-```  
----  
-# ワークスペースの準備  
-こちらの資料を参考にワークスペースを作成した
+# ワークスペースの準備及びインストール
+こちらの資料を参考にワークスペースを作成しROSをインストールした
     リンク:(https://github.com/ryuichiueda/robosys2020/blob/master/md/ros.md)
 ---  
 # 実行方法  
